@@ -1,0 +1,16 @@
+{
+    "params":
+    {
+      "local_server": "True",
+      "local_uri": "mysql://root:@localhost/thecoderjedi",
+      "prod_uri" : "mysql://root:@localhost/thecoderjedi",
+      "fb_uri" : "https://www.facebook.com/kushagrasgupta",
+      "tw_uri": "https://twitter.com/lordkush18",
+      "gh_uri" : "https://github.com/kushagrasgupta",
+      "blog_name" : "Coder Jedi Writes",
+      "tag_line" : "Welcome to the Coding Dojo! Here Kushagra Gupta aka Coder Jedi will be posting and writing mainly on coding stuffs and sometimes tech reviews too!",
+      "gmail-user": "johnsnow6455@gmail.com",
+      "gmail-password": "genielanya1"
+  
+    }
+  }
